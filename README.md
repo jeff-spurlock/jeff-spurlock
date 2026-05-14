@@ -1,5 +1,5 @@
 # Hi, I’m @jeff-spurlock
-I’m a full stack web developer, software engineer, devops engineer, what ever the title we're supposed to use these days that means I write code that becomes websites. 
+I’m a senior software engineer for Hello Bello, Hylands, and OneLasso.
 
 # Skills
 Core strengths in React, Next.js, TypeScript, Tailwind, and serverless UIs. But I've also been doing this for a while so also Vanilla JS, jquery, CSS, sass, MVC architecture, drupal, wp, php... all the usual culprits. But I don't really use them anymore. 
